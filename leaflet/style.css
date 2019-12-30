@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "CooperHewitt";
+    src: url('/data/CooperHewitt/CooperHewitt-Book.eot');
+    src: url('/data/CooperHewitt/CooperHewitt-Book.svg') format('svg'),url('/data/CooperHewitt/CooperHewitt-Book.woff') format('woff');
+}
+
+* {
+    font-family: "CooperHewitt", Arial;
+    margin: 0
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+}
+
+.marker-cluster {
+background-color: rgba(218, 94, 94, 0.6);
+border-radius: 50%
+}
+
+#console {
+  position: absolute;
+  width: 240px;
+  right: 0px;
+  top: 0px;
+  margin: 0px;
+  padding: 10px 20px;
+  background-color: whitesmoke;
+  z-index: 2;
+  opacity: 0.8;
+}
+
+#console-image {
+    width: 200px;
+    float: left;
+}
+
+
+
+

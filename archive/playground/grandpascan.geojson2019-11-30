@@ -1,0 +1,1499 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909201824563E+016",
+            "NewFileName": "19420616",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 16,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420616.jpg",
+            "DocumentLocation": "/data/docs/19420616.pdf",
+            "Pages": 3,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909201825316E+016",
+            "NewFileName": "19440525",
+            "Year": 1944,
+            "Month": 5,
+            "Day": 25,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19440525.jpg",
+            "DocumentLocation": "/data/docs/19440525.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.0190920182607E+016",
+            "NewFileName": "19440301",
+            "Year": 1944,
+            "Month": 3,
+            "Day": 1,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19440301.jpg",
+            "DocumentLocation": "/data/docs/19440301.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "GBL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909201827015E+016",
+            "NewFileName": "19431220",
+            "Year": 1943,
+            "Month": 12,
+            "Day": 20,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19431220.jpg",
+            "DocumentLocation": "/data/docs/19431220.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909201828074E+016",
+            "NewFileName": "19431204",
+            "Year": 1943,
+            "Month": 12,
+            "Day": 4,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19431204.jpg",
+            "DocumentLocation": "/data/docs/19431204.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "GBL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909E+016",
+            "NewFileName": "19430409",
+            "Year": 1943,
+            "Month": 4,
+            "Day": 9,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430409.jpg",
+            "DocumentLocation": "/data/docs/19430409.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301806254E+016",
+            "NewFileName": "19431129",
+            "Year": 1943,
+            "Month": 11,
+            "Day": 29,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19431129.jpg",
+            "DocumentLocation": "/data/docs/19431129.pdf",
+            "Pages": 7,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301808032E+016",
+            "NewFileName": "19420505",
+            "Year": 1942,
+            "Month": 5,
+            "Day": 5,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420505.jpg",
+            "DocumentLocation": "/data/docs/19420505.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301809234E+016",
+            "NewFileName": "19440217",
+            "Year": 1944,
+            "Month": 2,
+            "Day": 17,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19440217.jpg",
+            "DocumentLocation": "/data/docs/19440217.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301810373E+016",
+            "NewFileName": "19440222",
+            "Year": 1944,
+            "Month": 2,
+            "Day": 22,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19440222.jpg",
+            "DocumentLocation": "/data/docs/19440222.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301812114E+016",
+            "NewFileName": "19421204",
+            "Year": 1942,
+            "Month": 12,
+            "Day": 4,
+            "LocationName": "Lubbock Army Flying School, Lubbock, TX",
+            "PreviewLocation": "/data/preview/19421204.jpg",
+            "DocumentLocation": "/data/docs/19421204.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "GBL",
+            "Photo": 0,
+            "Lat": 33.577862,
+            "Lon": -101.855164,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-101.855164, 33.577862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301813573E+016",
+            "NewFileName": "19420606",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 6,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420606.jpg",
+            "DocumentLocation": "/data/docs/19420606.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 1,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301816289E+016",
+            "NewFileName": "19431107",
+            "Year": 1943,
+            "Month": 11,
+            "Day": 7,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19431107.jpg",
+            "DocumentLocation": "/data/docs/19431107.pdf",
+            "Pages": 7,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909E+016",
+            "NewFileName": "19430617",
+            "Year": 1943,
+            "Month": 6,
+            "Day": 17,
+            "LocationName": "Villacidro, Sardinia",
+            "PreviewLocation": "/data/preview/19430617.jpg",
+            "DocumentLocation": "/data/docs/19430617.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 39.45878,
+            "Lon": 8.73861,
+            "Notable": "1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [8.73861, 39.45878]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01909301818172E+016",
+            "NewFileName": "19400101a",
+            "Year": 1940,
+            "Month": 1,
+            "Day": 1,
+            "LocationName": "Washington, DC",
+            "PreviewLocation": "/data/preview/19400101a.jpg",
+            "DocumentLocation": "/data/docs/19400101a.pdf",
+            "Pages": 2,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 1,
+            "Lat": 38.907192,
+            "Lon": -77.036873,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.036873, 38.907192]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011753477E+016",
+            "NewFileName": "19400101b",
+            "Year": 1940,
+            "Month": 1,
+            "Day": 1,
+            "LocationName": "Washington, DC",
+            "PreviewLocation": "/data/preview/19400101b.jpg",
+            "DocumentLocation": "/data/docs/19400101b.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 1,
+            "Lat": 38.907192,
+            "Lon": -77.036873,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.036873, 38.907192]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011754359E+016",
+            "NewFileName": "19420817",
+            "Year": 1942,
+            "Month": 8,
+            "Day": 17,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420817.jpg",
+            "DocumentLocation": "/data/docs/19420817.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011755191E+016",
+            "NewFileName": "19430808",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 8,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430808.jpg",
+            "DocumentLocation": "/data/docs/19430808.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "GBL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011756594E+016",
+            "NewFileName": "19420705",
+            "Year": 1942,
+            "Month": 7,
+            "Day": 5,
+            "LocationName": "Oklahoma City, OK",
+            "PreviewLocation": "/data/preview/19420705.jpg",
+            "DocumentLocation": "/data/docs/19420705.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 35.46756,
+            "Lon": -97.516426,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.516426, 35.46756]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011758086E+016",
+            "NewFileName": "19400101c",
+            "Year": 1940,
+            "Month": 1,
+            "Day": 1,
+            "LocationName": "Washington, DC",
+            "PreviewLocation": "/data/preview/19400101c.jpg",
+            "DocumentLocation": "/data/docs/19400101c.pdf",
+            "Pages": 4,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 38.907192,
+            "Lon": -77.036873,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.036873, 38.907192]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011758572E+016",
+            "NewFileName": "19420701",
+            "Year": 1942,
+            "Month": 7,
+            "Day": 1,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420701.jpg",
+            "DocumentLocation": "/data/docs/19420701.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011759565E+016",
+            "NewFileName": "19420927",
+            "Year": 1942,
+            "Month": 9,
+            "Day": 27,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420927.jpg",
+            "DocumentLocation": "/data/docs/19420927.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011804597E+016",
+            "NewFileName": "19430218",
+            "Year": 1942,
+            "Month": 2,
+            "Day": 18,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430218.jpg",
+            "DocumentLocation": "/data/docs/19430218.pdf",
+            "Pages": 19,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 1,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "20191001180803055a",
+            "NewFileName": "19420822a",
+            "Year": 1942,
+            "Month": 8,
+            "Day": 22,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420822a.jpg",
+            "DocumentLocation": "/data/docs/19420822a.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "20191001180803055b",
+            "NewFileName": "19420822b",
+            "Year": 1942,
+            "Month": 8,
+            "Day": 22,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420822b.jpg",
+            "DocumentLocation": "/data/docs/19420822b.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011808365E+016",
+            "NewFileName": "19430108",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 8,
+            "LocationName": "",
+            "PreviewLocation": "/data/preview/19430108.jpg",
+            "DocumentLocation": "/data/docs/19430108.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 38.907192,
+            "Lon": -77.036873,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.036873, 38.907192]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910011808574E+016",
+            "NewFileName": "19430318a",
+            "Year": 1943,
+            "Month": 3,
+            "Day": 18,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430318a.jpg",
+            "DocumentLocation": "/data/docs/19430318a.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 27.61285,
+            "Lon": -81.540307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021747557E+016",
+            "NewFileName": "19430318b",
+            "Year": 1943,
+            "Month": 3,
+            "Day": 18,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430318b.jpg",
+            "DocumentLocation": "/data/docs/19430318b.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021749279E+016",
+            "NewFileName": "19430425",
+            "Year": 1943,
+            "Month": 4,
+            "Day": 25,
+            "LocationName": "Parnamirim Airport, Brazil",
+            "PreviewLocation": "/data/preview/19430425.jpg",
+            "DocumentLocation": "/data/docs/19430425.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 1,
+            "Lat": -5.911389,
+            "Lon": -35.2475,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-35.2475, -5.911389]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021751111E+016",
+            "NewFileName": "19430503",
+            "Year": 1943,
+            "Month": 5,
+            "Day": 3,
+            "LocationName": "Telergma, Algeria",
+            "PreviewLocation": "/data/preview/19430503.jpg",
+            "DocumentLocation": "/data/docs/19430503.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.77172,
+            "Lon": 3.05176,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [3.05176, 36.77172]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021752448E+016",
+            "NewFileName": "19420925",
+            "Year": 1942,
+            "Month": 9,
+            "Day": 25,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420925.jpg",
+            "DocumentLocation": "/data/docs/19420925.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021754287E+016",
+            "NewFileName": "19430109",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 9,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430109.jpg",
+            "DocumentLocation": "/data/docs/19430109.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021755479E+016",
+            "NewFileName": "19430213",
+            "Year": 1943,
+            "Month": 2,
+            "Day": 13,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430213.jpg",
+            "DocumentLocation": "/data/docs/19430213.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021756356E+016",
+            "NewFileName": "19430217",
+            "Year": 1943,
+            "Month": 2,
+            "Day": 17,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430217.jpg",
+            "DocumentLocation": "/data/docs/19430217.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021757343E+016",
+            "NewFileName": "19430116",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 16,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430116.jpg",
+            "DocumentLocation": "/data/docs/19430116.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021758145E+016",
+            "NewFileName": "19430118",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 18,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430118.jpg",
+            "DocumentLocation": "/data/docs/19430118.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021759233E+016",
+            "NewFileName": "19420125",
+            "Year": 1942,
+            "Month": 1,
+            "Day": 25,
+            "LocationName": "Lubbock Army Flying School, Lubbock, TX",
+            "PreviewLocation": "/data/preview/19420125.jpg",
+            "DocumentLocation": "/data/docs/19420125.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 33.577862,
+            "Lon": -101.855164,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-101.855164, 33.577862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.0191E+016",
+            "NewFileName": "19430801",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 1,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430801.jpg",
+            "DocumentLocation": "/data/docs/19430801.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021800083E+016",
+            "NewFileName": "19430824",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 24,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430824.jpg",
+            "DocumentLocation": "/data/docs/19430824.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021800407E+016",
+            "NewFileName": "19430906",
+            "Year": 1943,
+            "Month": 9,
+            "Day": 6,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430906.jpg",
+            "DocumentLocation": "/data/docs/19430906.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021800564E+016",
+            "NewFileName": "19430804",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 4,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430804.jpg",
+            "DocumentLocation": "/data/docs/19430804.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021801131E+016",
+            "NewFileName": "19430826",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 6,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430826.jpg",
+            "DocumentLocation": "/data/docs/19430826.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021801309E+016",
+            "NewFileName": "19430721",
+            "Year": 1943,
+            "Month": 7,
+            "Day": 21,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430721.jpg",
+            "DocumentLocation": "/data/docs/19430721.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021801453E+016",
+            "NewFileName": "19430819",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 19,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430819.jpg",
+            "DocumentLocation": "/data/docs/19430819.pdf",
+            "Pages": 1,
+            "Author": "",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021802051E+016",
+            "NewFileName": "19430812",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 12,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430812.jpg",
+            "DocumentLocation": "/data/docs/19430812.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910021803294E+016",
+            "NewFileName": "19430905",
+            "Year": 1943,
+            "Month": 9,
+            "Day": 5,
+            "LocationName": "New York, NY",
+            "PreviewLocation": "/data/preview/19430905.jpg",
+            "DocumentLocation": "/data/docs/19430905.pdf",
+            "Pages": 2,
+            "Author": "GBL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 40.764562,
+            "Lon": -73.980938,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.980938, 40.764562]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031755152E+016",
+            "NewFileName": "19430902",
+            "Year": 1943,
+            "Month": 9,
+            "Day": 2,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430902.jpg",
+            "DocumentLocation": "/data/docs/19430902.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031755344E+016",
+            "NewFileName": "19430806",
+            "Year": 1943,
+            "Month": 8,
+            "Day": 6,
+            "LocationName": "Djedeida, Tunisia",
+            "PreviewLocation": "/data/preview/19430806.jpg",
+            "DocumentLocation": "/data/docs/19430806.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.707218,
+            "Lon": 10.1696,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [10.1696, 36.707218]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.0191003175613E+016",
+            "NewFileName": "19430103",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 3,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430103.jpg",
+            "DocumentLocation": "/data/docs/19430103.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031756508E+016",
+            "NewFileName": "19420402",
+            "Year": 1942,
+            "Month": 4,
+            "Day": 2,
+            "LocationName": "Kelly Field",
+            "PreviewLocation": "/data/preview/19420402.jpg",
+            "DocumentLocation": "/data/docs/19420402.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 29.383333,
+            "Lon": -98.580833,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-98.580833, 29.383333]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031757126E+016",
+            "NewFileName": "19430104",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 4,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430104.jpg",
+            "DocumentLocation": "/data/docs/19430104.pdf",
+            "Pages": 1,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031758472E+016",
+            "NewFileName": "19420718",
+            "Year": 1942,
+            "Month": 7,
+            "Day": 18,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420718.jpg",
+            "DocumentLocation": "/data/docs/19420718.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031800022E+016",
+            "NewFileName": "19421107",
+            "Year": 1942,
+            "Month": 11,
+            "Day": 7,
+            "LocationName": "Lubbock Army Flying School, Lubbock, TX",
+            "PreviewLocation": "/data/preview/19421107.jpg",
+            "DocumentLocation": "/data/docs/19421107.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 33.577862,
+            "Lon": -101.855164,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-101.855164, 33.577862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.0191003180057E+016",
+            "NewFileName": "19421002",
+            "Year": 1942,
+            "Month": 10,
+            "Day": 2,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19421002.jpg",
+            "DocumentLocation": "/data/docs/19421002.pdf",
+            "Pages": 3,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031802271E+016",
+            "NewFileName": "19420612",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 12,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420612.jpg",
+            "DocumentLocation": "/data/docs/19420612.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910031804087E+016",
+            "NewFileName": "19420830",
+            "Year": 1942,
+            "Month": 8,
+            "Day": 30,
+            "LocationName": "Goodfellow Field, San Angelo, TX",
+            "PreviewLocation": "/data/preview/19420830.jpg",
+            "DocumentLocation": "/data/docs/19420830.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 31.429631,
+            "Lon": -100.399039,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-100.399039, 31.429631]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.019100417455E+016",
+            "NewFileName": "19420627",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 27,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420627.jpg",
+            "DocumentLocation": "/data/docs/19420627.pdf",
+            "Pages": 5,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041746306E+016",
+            "NewFileName": "19420630",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 30,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420630.jpg",
+            "DocumentLocation": "/data/docs/19420630.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041747218E+016",
+            "NewFileName": "19420621",
+            "Year": 1942,
+            "Month": 6,
+            "Day": 21,
+            "LocationName": "W+B Flying School, Chickasha, OK",
+            "PreviewLocation": "/data/preview/19420621.jpg",
+            "DocumentLocation": "/data/docs/19420621.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 35.052567,
+            "Lon": -97.936432,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.936432, 35.052567]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.0191004174807E+016",
+            "NewFileName": "19430303",
+            "Year": 1943,
+            "Month": 3,
+            "Day": 3,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430303.jpg",
+            "DocumentLocation": "/data/docs/19430303.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041748441E+016",
+            "NewFileName": "19430226",
+            "Year": 1943,
+            "Month": 2,
+            "Day": 26,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430226.jpg",
+            "DocumentLocation": "/data/docs/19430226.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041749451E+016",
+            "NewFileName": "19430220",
+            "Year": 1943,
+            "Month": 2,
+            "Day": 20,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430220.jpg",
+            "DocumentLocation": "/data/docs/19430220.pdf",
+            "Pages": 4,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041751062E+016",
+            "NewFileName": "19421025",
+            "Year": 1942,
+            "Month": 10,
+            "Day": 25,
+            "LocationName": "Lubbock Army Flying School, Lubbock, TX",
+            "PreviewLocation": "/data/preview/19421025.jpg",
+            "DocumentLocation": "/data/docs/19421025.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 33.577862,
+            "Lon": -101.855164,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-101.855164, 33.577862]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041751443E+016",
+            "NewFileName": "19430103",
+            "Year": 1943,
+            "Month": 1,
+            "Day": 3,
+            "LocationName": "Avon Park, FL",
+            "PreviewLocation": "/data/preview/19430103.jpg",
+            "DocumentLocation": "/data/docs/19430103.pdf",
+            "Pages": 2,
+            "Author": "FL",
+            "Recipient": "",
+            "Photo": 0,
+            "Lat": 27.60285,
+            "Lon": -81.510307,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.510307, 27.60285]
+        }
+    }, {
+        "type": "Feature",
+        "properties": {
+            "OriginalFilename": "2.01910041753313E+016",
+            "NewFileName": "19430528",
+            "Year": 1943,
+            "Month": 5,
+            "Day": 28,
+            "LocationName": "Sedrata, Algeria",
+            "PreviewLocation": "/data/preview/19430528.jpg",
+            "DocumentLocation": "/data/docs/19430528.pdf",
+            "Pages": 6,
+            "Author": "FL",
+            "Recipient": "CL",
+            "Photo": 0,
+            "Lat": 36.128333,
+            "Lon": 7.531389,
+            "Notable": ""
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.531389, 36.128333]
+        }
+    }]
+}

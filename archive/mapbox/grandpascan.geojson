@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "Date": 16,
+      "Month": 6,
+      "Year": 1942,
+      "Location": "W&B Flying School, Chickasha, OK",
+      "Preview": "/data/1.png",
+      "Document": "/data/1.pdf",
+      "Pages": 3
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-97.936, 35.052]
+    }
+  }, {
+    "type": "Feature",
+    "properties": {
+        "Date": 24,
+        "Month": 5,
+        "Year": 1944,
+        "Location": "North Africa",
+        "Preview": "/data/2.png",
+        "Document": "/data/2.pdf",
+        "Pages": 2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.093, 36.842]
+    }
+  } , {
+    "type": "Feature",
+    "properties": {
+        "Date": 25,
+        "Month": 12,
+        "Year": 1943,
+        "Location": "North Africa",
+        "Preview": "/data/3.png",
+        "Document": "/data/3.pdf",
+        "Pages": 2
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-4.965310, 34.059769]
+    }
+  }]
+}

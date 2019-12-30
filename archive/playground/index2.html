@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8' />
+<title>Add an icon to the map</title>
+<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js'></script>
+<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css' rel='stylesheet' />
+<style>
+    body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; };
+</style>
+</head>
+<body>
+<div id='map'></div>
+
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoibXdlaW5iZXJnIiwiYSI6ImNqZ2I5azJtNTJlemYyd215ZTV3bXBmcWoifQ.Rd-1dcf3z9asEQqbu1MxOw';
+
+var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/mapbox/streets-v11'
+});
+
+map.on('load', function() {
+    map.loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Cat_silhouette.svg/400px-Cat_silhouette.svg.png', function(error, image) {
+        if (error) throw error;
+        map.addImage('cat', image);
+        map.addLayer({
+            "id": "points",
+            "type": "symbol",
+            "source": {
+                type: 'geojson',
+                data: './grandpascan.geojson'
+            },
+            "layout": {
+                "icon-image": "cat",
+                "icon-size": 0.25
+            }
+        });
+    });
+});
+
+map.on('style.load', function() {
+  map.on('click', mouseClick);
+});
+
+function mouseClick(e) {
+  var features = map.queryRenderedFeatures(e.point, {
+      layers: ['points']
+    });
+
+  spiderifier.unspiderfy();
+  if (!features.length) {
+    return;
+  } else {
+    map.getSource('geojson').getClusterLeaves(
+      features[0].properties.cluster_id,
+      100,
+      0,
+      function(err, leafFeatures){
+        if (err) {
+          return console.error('error while getting leaves of a cluster', err);
+        }
+        var markers = _.map(leafFeatures, function(leafFeature){
+          return leafFeature.properties;
+        });
+        spiderifier.spiderfy(features[0].geometry.coordinates, markers);
+      }
+    );
+  }
+}
+
+
+</script>
+
+</body>
+</html>

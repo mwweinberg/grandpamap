@@ -1,0 +1,29 @@
+<!DOCTYPE html?
+<html lang="en">
+    <head>
+        <meta charset='utf-8' />
+        <title>Frank Loops Around the World</title>
+        <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+        <script src='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.js'></script>
+        <link href='https://api.mapbox.com/mapbox-gl-js/v1.4.0/mapbox-gl.css' rel='stylesheet' />
+
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+    </head>
+    <body>
+        <div id='map'></div>
+        <div id='console'>
+            <h1>Frank Loops Letters</h1>
+            <p>Data: <a href='grandpascan.geojson'>Frank Loops Letters</a> During WWII</p>
+
+
+            <div class='session' id='sliderbar'>
+                <h2>Year: <label id='active-year'>1943</label></h2>
+                <input id='slider' class='row' type='range' min='1940' max='1945' step='1' value='1943' />
+            </div>
+
+            <script src='scripta.js'></script>
+        </div>
+
+    <body>
+</html>
