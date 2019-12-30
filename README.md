@@ -1,0 +1,3 @@
+This is the development area for an interactive map of letters Frank Loops sent home during his service in World War II. The leaflet folder contains the actual files.  The csv2json and pdf2jpg folders are scripts to help create the geojson file and preview images.  The archive is where I dumped old versions of the map.  Those worked to create an interactive timeline on the map but I could not figure out how to display multiple entries with the same coordinates.
+
+The licensing for this repo applies to the code, not the letters/images themselves.
